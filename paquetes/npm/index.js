@@ -12,5 +12,4 @@ const isIdiot = nombre => {
 
 isIdiot('Itati');
 isIdiot('Emilio');
-isIdiot('Diego');
 
